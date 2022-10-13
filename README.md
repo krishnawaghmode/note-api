@@ -3,8 +3,6 @@
 
 Simple API to showcase CRUD operations using Express JS with Authentication using JWT Tokens
 
-
-
 ## Features
 
 - Express JS Rest API Setup 
@@ -13,11 +11,7 @@ Simple API to showcase CRUD operations using Express JS with Authentication usin
 - Complete Signup/Login Flow.
 - CRUD operations for Notes (GET, POST, PUT, DELETE)
 
-
-## 🚀 About this series
-This is a series covering 2 parts - 
-
-   ### Rest API (Node JS)
+ ## Rest API (Node JS)
 
   - POST              : localhost:5000/users/signup
   - POST              : localhost:5000/users/signin
